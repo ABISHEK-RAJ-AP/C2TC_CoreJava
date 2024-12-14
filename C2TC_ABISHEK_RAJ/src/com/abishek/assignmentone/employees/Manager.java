@@ -1,4 +1,4 @@
-package com.gukan.assignmentone.employees;
+package com.abishek.assignmentone.employees;
 
 public class Manager extends Employee {
     private String department;
