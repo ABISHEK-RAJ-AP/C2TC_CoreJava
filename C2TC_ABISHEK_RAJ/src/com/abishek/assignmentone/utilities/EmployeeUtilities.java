@@ -1,8 +1,8 @@
-package com.gukan.assignmentone.utilities;
+package com.abishek.assignmentone.utilities;
 
-import com.gukan.assignmentone.employees.Employee;
-import com.gukan.assignmentone.employees.Manager;
-import com.gukan.assignmentone.employees.Developer;
+import com.abishek.assignmentone.employees.Employee;
+import com.abishek.assignmentone.employees.Manager;
+import com.abishek.assignmentone.employees.Developer;
 
 
 public class EmployeeUtilities {
