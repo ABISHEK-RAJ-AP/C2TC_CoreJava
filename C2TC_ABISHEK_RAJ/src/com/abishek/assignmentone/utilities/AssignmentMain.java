@@ -1,21 +1,21 @@
-package com.gukan.assignmentone.utilities;
+package com.abishek.assignmentone.utilities;
 
 
-import com.gukan.assignmentone.employees.Manager;
-import com.gukan.assignmentone.employees.Developer;
+import com.abishek.assignmentone.employees.Manager;
+import com.abishek.assignmentone.employees.Developer;
 
 public class AssignmentMain {
     public static void main(String[] args) {
 
         Manager manager = new Manager();
-        manager.setName("Alice");
+        manager.setName("pri");
         manager.setEmployeeId(101);
         manager.setSalary(75000);
         manager.setDepartment("HR");
 
 
         Developer developer = new Developer();
-        developer.setName("Bob");
+        developer.setName("Bing");
         developer.setEmployeeId(102);
         developer.setSalary(65000);
         developer.setProgrammingLanguage("Java");
